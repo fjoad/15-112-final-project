@@ -1,0 +1,48 @@
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                                                      
+B                                                                B
+B      SSPPPPP                                                   B
+B                    SSSSSPPPPPP     SSSSSPPPPPP                 B
+B                                                                B
+B                                                                B
+B                                                                B
+B    PPPSSPPP        SSPPPPP                SSPPPPPSSPPPPP       B
+B                                                                B
+B                                                                B
+B     SSPPPPP            PPSPPP                                  B
+B                                                                B
+B                                       SSSSSPPPPPP              B
+B                                          			 B
+B                     PPSSPP               			 B
+B                                          			 B
+B   PPPPSSSPPPP                       SSSSSPPPPPP     		 B
+B                                          			 B
+B                 PPPSSSPPPPP              			 B
+B                                          			 B
+B                                                      		 B
+B                                       SSSSSPPPPPP   		 B
+B         SSSSSPPPPPP                                 		 B
+BBBBBBBAAAABBBBBAAABB                          AAAAA      AAAAAAAB
+B                   SSPPPPP                                      B
+B                                                                B
+B      SSPPPPP                                                   B
+B                    SSSSSPPPPPP     SSSSSPPPPPP                 B
+B                                                                B
+B    SSPPPPP                                                     B
+B                                                                B
+B    PPPSSPPP        SSPPPPP                SSPPPPPSSPPPPP       B
+B                                                                B
+B                                                                B
+B     SSPPPPP            PPSPPP                  SSPPPPPSSPPPPP  B
+B                                                         E      B
+B         SSPPPPP                        SSSSSPPPPPP             B
+B                                          			 B
+B                     PPSSPP               			 B
+B                                          			 B
+B   PPPPSSSPPPP                       SSSSSPPPPPP     		 B
+B                                          			 B
+B                 PPPSSSPPPPP              			 B
+B                                          			 B
+B     SSSSSPPPPPP                                     		 B
+B                                       SSSSSPPPPPP   		 B
+B         SSSSSPPPPPP                                 		 B
+BBBBBBBAAAABBBBBAAABBBBBAAAAAAAAABBBBBBBBBBBAAAAAAAAAAAAAAAAAAAAAB

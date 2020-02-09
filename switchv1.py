@@ -57,15 +57,15 @@ class Player(Object):
         # do y-axis collisions
         self.collide(0, self.yVelocity, platforms, spikes)
 
-    def collide(self, xVelocity, yVelocity, platforms, spikes):
+    def collide(self, xvelocity, yVelocity, platforms, spikes):
         for p in platforms:
             if pygame.sprite.collide_rect(self, p):
                 #if isinstance(p, ExitBlock):
                 #    pygame.event.post(pygame.event.Event(QUIT))
-                if xVelocity > 0:
+                if xvelocity > 0:
                     self.rect.right = p.rect.left
                     #print "collide right"
-                if xVelocity < 0:
+                if xvelocity < 0:
                     self.rect.left = p.rect.right
                     #print "collide left"
                 if yVelocity > 0:
